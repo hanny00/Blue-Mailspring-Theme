@@ -1,0 +1,13 @@
+{
+  "name": "Blue-Mailspring-Theme",
+  "title": ".BlueTheme",
+  "displayName": "BlueTheme",
+  "theme": "ui",
+  "version": "1.0",
+  "description": "A fresher mid-dark theme inspired by KDE-Plasma Desktop Environment Themes ",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
