@@ -1,5 +1,5 @@
 ![Screenshot](Screenshot_1.png)
-# Blue-Mailsrping-Theme
+# Blue-Mailspring-Theme
 
 Blue-Mailspring-Theme 
 A fresher dark theme inspired by KDE-Plasma Themes 
