@@ -1,4 +1,4 @@
-![Screenshot] ( Screenshot_1.png )
+![Screenshot](Screenshot_1.png)
 # Blue-Mailsrping-Theme
 
 Blue-Mailspring-Theme 
